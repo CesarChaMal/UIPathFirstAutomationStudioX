@@ -1,5 +1,5 @@
 {
-  "name": "CurrencyConverter",
+  "name": "UIPathFirstAutomationStudioX",
   "description": "Convert local prices into USD and get total cost per location.",
   "main": "Main.xaml",
   "dependencies": {
